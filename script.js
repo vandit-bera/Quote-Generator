@@ -32,7 +32,7 @@ btn.addEventListener("click", () =>{
         /* Take content into json api format and give into h4 tag */
         quotess.innerText = data.content;
         /* Take author into json api format and give into p tag */
-        author.innerText = data.author;
+        author.innerText = "Author is: " + data.author;
     })
     .catch((error) =>{
         /* If anyy Error genrate then print the Error */
