@@ -6,6 +6,7 @@
 [![Instagram][instagram-shield]][instagram-url]
 [![Twitter][twitter-shield]][twitter-url]
 [![Hashnode][hashnode-shield]][hashnode-url]
+[![Whatsapp][whatsapp-shield]][whatsapp-url]
 
 <!-- PROJECT LOGO -->
 <br/>
@@ -102,3 +103,9 @@ Project Link: [GitHub](https://github.com/vandit-bera/Quote-Generator)
 
 [hashnode-shield]: https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white
 [hashnode-url]: https://vandit-bera.hashnode.dev/
+
+
+<!-- Whatsapp -->
+
+[whatsapp-shield]: https://img.shields.io/badge/Whatsapp-%231DA1F2.svg?style=for-the-badge&logo=Whatsapp&logoColor=white
+[whatsapp-url]: https://wa.me/919427391850
